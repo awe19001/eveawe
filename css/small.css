@@ -1,0 +1,93 @@
+/* @import url('https://fonts.googleapis.com/css?family=Lato&display=swap'); */
+
+body {
+    font-family: 'lato', sans-serif, serif;
+}
+
+h1, h2 {
+    font-family: 'Quicksand', sans-serif, serif;
+}
+
+.content {
+    margin: 0 auto;
+    max-width: 45em;
+}
+
+header {
+    background-color: rgb(243, 28, 92);
+    color: rgb(192, 224, 238);
+    border-radius: 5px;
+    text-align: center;
+    padding: 5px;
+    margin-top: 5px;
+}
+
+header h1 {
+    font-size: 2.5em;
+    margin: 5px;
+    /* margin: 0.12em; */
+    
+}
+
+.Img {
+    height: 150px;
+    width: auto;
+    margin-top: 10px;
+    margin-right: 5px;
+    border-radius: 5px;
+    box-shadow: 0 0 25px rgb(176, 236, 10);
+
+}
+
+main {
+    margin: 15px;
+}
+
+.title {
+    border-bottom: black 1px solid;
+ }
+
+ .title h2 {
+    margin-top: 40px;
+    margin-bottom: 10px;
+
+ }
+
+ .lessons {
+     margin-top: 20px;
+     margin-bottom: 40px;
+ }
+
+.lessons a {
+    color: #04304C;
+}
+
+.lessons a:hover{
+    color: #6CB2D1;
+    font-weight: bold;
+}
+
+footer {
+    background-color: #04304C;
+    color: #6CB2D1;
+    border-radius: 5px;
+    text-align: center;
+    padding: 10px;
+}
+
+footer p {
+    margin: 0;
+}
+
+footer a {
+    color: burlywood;
+}
+
+footer a:hover {
+    color: rgb(245, 241, 0);
+    font-weight: bold;
+}
+
+footer a:visited{
+    color: burlywood;
+}
