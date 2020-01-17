@@ -15,7 +15,7 @@ h1, h2 {
 
 header {
     background-color: rgb(243, 28, 92);
-    color: rgb(192, 224, 238);
+    color: whitesmoke;
     border-radius: 5px;
     text-align: center;
     padding: 5px;
@@ -59,7 +59,7 @@ main {
  }
 
 .lessons a {
-    color: #04304C;
+    color: rgb(127, 18, 199);
 }
 
 .lessons a:hover{
@@ -68,8 +68,8 @@ main {
 }
 
 footer {
-    background-color: #04304C;
-    color: #6CB2D1;
+    background-color: rgb(177, 6, 140);
+    color: white;
     border-radius: 5px;
     text-align: center;
     padding: 10px;
@@ -80,14 +80,14 @@ footer p {
 }
 
 footer a {
-    color: burlywood;
+    color: rgb(69, 81, 252);
 }
 
 footer a:hover {
-    color: rgb(245, 241, 0);
+    color: rgb(24, 201, 8);
     font-weight: bold;
 }
 
 footer a:visited{
-    color: burlywood;
+    color: rgb(248, 145, 10);
 }
